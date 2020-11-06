@@ -32,7 +32,7 @@ var questionNumber = 0,
 
 The Question is built like this, it should be self explaining (**WATCH OUT! We are counting from 0**).
 ```JAVASCRIPT
- question: 'What is, "5 + 5"',
-            choices: ["3", "0", "10", "12"],
-            answer: 2}
+ question: "What is, "5 + 5",
+           choices: ["3", "0", "10", "12"],
+           answer: 2}
 ```
